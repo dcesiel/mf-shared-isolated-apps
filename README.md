@@ -4,7 +4,7 @@
 Navigate to both `/app1` and `/app2` and run `npm install`
 
 ## Build:
-Navigate to both `npm build`
+Navigate to both `/app1` and `/app2` and run `npm build`
 
 ## Notes:
 Open `index.html` in your browser with dev tools console open.  You'll see both apps initialize.
